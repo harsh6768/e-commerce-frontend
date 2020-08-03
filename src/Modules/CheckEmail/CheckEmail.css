@@ -1,0 +1,65 @@
+.check-container{
+    width: 30%;
+}
+.checked-img{
+    height: 16%;
+    width: 16%;
+    /* display: block; */
+}
+.check-email-title{
+    font: 1.7em;
+    font-weight: bold;
+    /* display: block; */
+}
+.check-email-desc{
+    font-size: 1.2em;
+    /* display: block; */
+}
+
+
+.resend-btn {
+	background-color: #00cc99;
+	color: white;
+	text-align: center;
+	border-radius: 16px;
+    border: none;
+    
+	padding: 4px;
+	vertical-align: middle;
+	width: 50%;
+	margin: auto;
+	border-color: none;
+	/* display: block; */
+}
+.resend-btn:hover {
+	color: white;
+	border: none;
+}
+.resend-btn:focus {
+	outline: none;
+}
+
+
+.code-btn {
+	/* outline-color: aquamarine; */
+	color: #000000;
+	text-align: center;
+	border-radius: 4px;
+	/* border: none; */
+	padding: 8px;
+	vertical-align: middle;
+	width: 50%;
+	margin: au123to;
+    border-color: #00cc99;
+    font-weight: bold;
+	/* display: block; */
+}
+.code-btn:hover {
+    /* color: white; */
+    color: #000000;
+    /* border: none; */
+    border-color: #00cc99;
+}
+/* .code-btn:focus {
+	outline: none;
+} */

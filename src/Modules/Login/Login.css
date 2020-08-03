@@ -1,0 +1,46 @@
+.login-page-container {
+	width: 50%;
+	max-width: 100%;
+	background-color: aliceblue;
+}
+.img-container {
+	height: 110%;
+}
+.title {
+	font-size: 1.2em;
+	font-style: italic;
+	text-align: center;
+	font-family: 'Lato', sans-serif;
+	color: #00cc99;
+}
+.login-btn {
+	background-color: #00cc99;
+	color: white;
+	text-align: center;
+	border-radius: 16px;
+	border: none;
+	padding: 4px;
+	vertical-align: middle;
+	width: 50%;
+	margin: auto;
+	border-color: none;
+	/* display: block; */
+}
+.login-btn:hover {
+	color: white;
+	border: none;
+}
+.login-btn:focus {
+	outline: none;
+}
+.forgot-password {
+	font-size: 1em;
+	color: #0099ff;
+}
+.create-account {
+	font-size: 1em;
+}
+.social-login {
+	font-size: 1em;
+	margin-top: 0.8em;
+}
